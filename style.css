@@ -1,0 +1,43 @@
+body {
+	background-image: url("https://www.freshnessmag.com/.image/t_share/MTM1OTc4NTEzMTk0MjcyNzc4/a-bathing-ape---ape-head-door-stopper---0.jpg");
+background-size: 20%
+}
+
+
+img {
+	width:60%;
+}
+
+.center {
+	text-align: center;
+	font-size:70px;
+	color:#B1FBCC;
+}
+
+.photo {
+	margin:auto;
+    display:block;
+    
+
+}
+.grid
+{display:grid;
+	grid-template-columns:1fr 1fr;
+	margin-top:10%;
+
+
+}
+
+.red {
+	color:red;
+
+}
+
+#vdeo2  {margin-bottom:10em
+margin-left:40em}
+
+
+
+#video{margin-top: 10em
+       margin-left:40em
+}
